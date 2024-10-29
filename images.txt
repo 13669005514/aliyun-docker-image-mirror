@@ -1,4 +1,4 @@
 mysql:8.0.37
 nginx
 osgeo/gdal:ubuntu-full-3.6.3
-osgeo/gdal:ubuntu-full-3.6.3@sha256:c115636a9f5d385240674c323ede99a64b8f6ab154dab911363c699f3b41da17
+osgeo/gdal:ubuntu-full-3.6.3@sha256:5995955aa6e79a20815e3f50045bfa72904c1ad512cb7e1a4c1477b4e9a6c69d
